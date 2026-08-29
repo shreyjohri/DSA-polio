@@ -246,3 +246,7 @@ In six months, we'll have a completely different level of confidence.
 And hopefully, better jobs and better packages.
 Then we can finally go visit all those places Basra keeps blabbering about. 🌍✈️
 See you on the other side. 🚀
+
+
+RESOURCE SHEET : 
+https://docs.google.com/spreadsheets/d/1QpSNcdcwOLQRywqeGns5ilo-OrgRmNhOrsTn4N0otVU/edit?gid=0#gid=0
