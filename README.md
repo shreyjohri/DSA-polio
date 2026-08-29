@@ -25,7 +25,7 @@ Week 3 → Linked Lists
 Week 4 → Binary Search
 ....
 
-====================================================================================================
+============================================================================================
 We study and solve problems related to that week's topic.
 Every day → 2 questions
 One person is responsible for selecting the questions for the next day.
@@ -62,7 +62,7 @@ Weekly cycle :
 | Saturday  | 2 questions + review/discussion |
 | Sunday    | Review + decide next topic      |
 
-====================================================================================================
+============================================================================================
 
 How We Choose Questions? 
 
@@ -89,7 +89,7 @@ What is the time complexity?
 What is the space complexity?
 Could I solve this again tomorrow without looking at the solution?
 
-====================================================================================================
+============================================================================================
 
 Don't Cheat Yourself
 
@@ -116,7 +116,7 @@ There's nothing wrong with 🟡 or 🔴.
 The only bad thing is pretending you solved it and then forgetting everything two days later.
 
 
-====================================================================================================
+============================================================================================
 
 Git Workflow
 
@@ -160,7 +160,7 @@ git pull
 Then create your new branch.
 
 
-====================================================================================================
+============================================================================================
 
 The Road Ahead
 We'll roughly move through:
@@ -202,7 +202,7 @@ Advanced DSA
 We'll adjust this as we go.
 No need to rush through topics just to say we finished them.
 
-====================================================================================================
+============================================================================================
 
 The Rules
 1. Two questions a day.
@@ -233,7 +233,7 @@ Don't just drop the solution.
 
 Those are the problems that actually teach you something.
 
-===========================================================================================================================================================
+============================================================================================
 
 Why We're Doing This ?
 Because six months from now, we don't want to be the same three idiots stuck at dedalus, complaining, our company doesn't give us treats.
